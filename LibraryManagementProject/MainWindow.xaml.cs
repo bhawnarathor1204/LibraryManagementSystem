@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace LibraryManagementProject
+namespace dddd
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -23,6 +23,11 @@ namespace LibraryManagementProject
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void CheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
