@@ -9,7 +9,6 @@ namespace LibraryManagementProject.MockData
 {
     public class MockDo
     {
-        // comment is added
         public List<BookResponseDo> getMockData()
         {
             List<BookResponseDo> bookList = new List<BookResponseDo>();
